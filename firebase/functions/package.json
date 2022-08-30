@@ -26,7 +26,7 @@
     "gs": "https://github.com/sina-masnadi/node-gs/tarball/master",
     "handlebars": "^4.0.12",
     "html-pdf": "^2.2.0",
-    "moment-timezone": "^0.5.21",
+    "moment-timezone": "^0.5.35",
     "request": "^2.88.0",
     "twilio": "^3.19.2",
     "uuid": "^3.3.2",
